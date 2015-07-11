@@ -55,3 +55,12 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# SQlite
+db.sqlite3
+
+# venv
+gpenv/
+
+# Idea
+.idea/
